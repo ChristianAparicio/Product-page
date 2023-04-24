@@ -1,0 +1,200 @@
+[
+    {
+        "Name":"Joshua Sticker",
+    "Price": "6000",
+    "Collection": "SeventeenXSanrio",
+    "ProductType": "Sticker",
+    "year":"2023",
+    "img1":"imgs/joshua-sticker/1.png",
+    "img2":"imgs/joshua-sticker/2.png",
+    "img3":"imgs/joshua-sticker/3.png",
+    "Author":"Christian Aparicio",
+    "Description":"Cute Sticker Based on the Kpop group Seventeen and Sanrio Characters"
+
+    },
+
+    {
+        "Name":"Scoups Sticker",
+    "Price": "6000",
+    "Collection": "SeventeenXSanrio",
+    "ProductType": "Sticker",
+    "year":"2023",
+    "img1":"imgs/scoups-sticker/1.png",
+    "img2":"imgs/scoups-sticker/2.png",
+    "img3":"imgs/scoups-sticker/3.png",
+    "Author":"Christian Aparicio",
+    "Description":"Cute Sticker Based on the Kpop group Seventeen and Sanrio Characters"
+
+    },
+
+    {
+        "Name":"Mingyu Sticker",
+    "Price": "6000",
+    "Collection": "SeventeenXSanrio",
+    "ProductType": "Sticker",
+    "year":"2023",
+    "img1":"imgs/mingyu-sticker/1.png",
+    "img2":"imgs/scoups-sticker/2.png",
+    "img3":"imgs/mingyu-sticker/1-1.png",
+    "Author":"Christian Aparicio",
+    "Description":"Cute Sticker Based on the Kpop group Seventeen and Sanrio Characters"
+    },
+
+    {
+        "Name":"Vernon Sticker",
+    "Price": "6000",
+    "Collection": "SeventeenXSanrio",
+    "ProductType": "Sticker",
+    "year":"2023",
+    "img1":"imgs/vernon-sticker/1.png",
+    "img2":"imgs/vernon-sticker/2.png",
+    "img3":"imgs/vernon-sticker/3.png",
+    "Author":"Christian Aparicio",
+    "Description":"Cute Sticker Based on the Kpop group Seventeen and Sanrio Characters"
+
+    },
+
+    {
+        "Name":"Woozi Sticker",
+    "Price": "6000",
+    "Collection": "SeventeenXSanrio",
+    "ProductType": "Sticker",
+    "year":"2023",
+    "img1":"imgs/woozie-sticker/1.png",
+    "img2":"imgs/woozie-sticker/2.png",
+    "img3":"imgs/woozie-sticker/3.png",
+    "Author":"Dana Garcia",
+    "Description":"Cute Sticker Based on the Kpop group Seventeen and Sanrio Characters"
+
+    },
+
+    {
+        "Name":"Wonwoo Sticker",
+    "Price": "6000",
+    "Collection": "SeventeenXSanrio",
+    "ProductType": "Sticker",
+    "year":"2023",
+    "img1":"imgs/wonwoo-sticker/1.png",
+    "img2":"imgs/wonwoo-sticker/2.png",
+    "img3":"imgs/wonwoo-sticker/3.png",
+    "Author":"Dana Garcia",
+    "Description":"Cute Sticker Based on the Kpop group Seventeen and Sanrio Characters"
+
+    },
+
+    {
+        "Name":"Jeonghan Sticker",
+    "Price": "6000",
+    "Collection": "SeventeenXSanrio",
+    "ProductType": "Sticker",
+    "year":"2023",
+    "img1":"imgs/jeonghan-sticker/1.png",
+    "img2":"imgs/jeonghan-sticker/2.png",
+    "img3":"imgs/jeonghan-sticker/3.png",
+    "Author":"Dana Garcia",
+    "Description":"Cute Sticker Based on the Kpop group Seventeen and Sanrio Characters"
+
+    },
+
+    {
+        "Name":"Hoshi Sticker",
+    "Price": "6000",
+    "Collection": "SeventeenXSanrio",
+    "ProductType": "Sticker",
+    "year":"2023",
+    "img1":"imgs/hoshi-sticker/1.png",
+    "img2":"imgs/hoshi-sticker/2.png",
+    "img3":"imgs/hoshi-sticker/3.png",
+    "Author":"Dana Garcia",
+    "Description":"Cute Sticker Based on the Kpop group Seventeen and Sanrio Characters"
+
+    },
+
+    {
+        "Name":"Black Pink Sticker",
+    "Price": "6000",
+    "Collection": "Dreamy Stickers",
+    "ProductType": "Sticker",
+    "year":"2023",
+    "img1":"imgs/blackpink-sticker/1.png",
+    "img2":"imgs/blackpink-sticker/2.png",
+    "img3":"imgs/blackpink-sticker/3.png",
+    "Author":"Christian Aparicio",
+    "Description":"Cute Stickers based on a retro shoujo anime style"
+
+    },
+
+    {
+        "Name":"Taylor x Katy Sticker",
+    "Price": "6000",
+    "Collection": "Dreamy Stickers",
+    "ProductType": "Sticker",
+    "year":"2023",
+    "img1":"imgs/fries.sticker/1.png",
+    "img2":"imgs/fries.sticker/2.png",
+    "img3":"imgs/fries.sticker/3.png",
+    "Author":"Christian Aparicio",
+    "Description":"Cute Stickers based on a retro shoujo anime style"
+
+    },
+
+    {
+        "Name":"Jennie Tv Sticker",
+    "Price": "6000",
+    "Collection": "Dreamy Stickers",
+    "ProductType": "Sticker",
+    "year":"2023",
+    "img1":"imgs/jenny-sticker/1.png",
+    "img2":"imgs/jenny-sticker/2.png",
+    "img3":"imgs/jenny-sticker/3.png",
+    "Author":"Christian Aparicio",
+    "Description":"Cute Stickers based on a retro shoujo anime style"
+
+    },
+
+    {
+        "Name":"Tv Sticker",
+    "Price": "6000",
+    "Collection": "Dreamy Stickers",
+    "ProductType": "Sticker",
+    "year":"2023",
+    "img1":"imgs/tv-sticker/1.png",
+    "img2":"imgs/tv-sticker/2.png",
+    "img3":"imgs/tv-sticker/3.png",
+    "Author":"Christian Aparicio",
+    "Description":"Cute Stickers based on a retro shoujo anime style"
+
+    },
+
+    
+    {
+        "Name":"Paris Hilton Sticker",
+    "Price": "6000",
+    "Collection": "Dreamy Stickers",
+    "ProductType": "Sticker",
+    "year":"2023",
+    "img1":"imgs/paris-sticker/1.png",
+    "img2":"imgs/paris-sticker/2.png",
+    "img3":"imgs/paris-sticker/3.png",
+    "Author":"Christian Aparicio",
+    "Description":"Cute Stickers based on a retro shoujo anime style"
+
+    },
+
+    {
+        "Name":"Sapa Perra Sticker",
+    "Price": "6000",
+    "Collection": "Dreamy Stickers",
+    "ProductType": "Sticker",
+    "year":"2023",
+    "img1":"imgs/sapaperra-sticker/1.png",
+    "img2":"imgs/sapaperra-sticker/2.png",
+    "img3":"imgs/sapaperra-sticker/3.png",
+    "Author":"Christian Aparicio",
+    "Description":"Cute Stickers based on a retro shoujo anime style"
+
+    }
+
+
+
+]
